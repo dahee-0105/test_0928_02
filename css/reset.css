@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+html{
+  font-size: 10px;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul, ol{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+  color: #000;
+}
+
+address, em{
+  font-style: normal;
+}
+
+legend{
+  display: none;
+}
+
+select, input, fieldset, button{
+  border: 0;
+  outline: none;
+  vertical-align: top;
+}
+
+img{
+  vertical-align: top;
+  border: 0;
+}
